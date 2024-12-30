@@ -1,3 +1,5 @@
+Name: SAMRUDDHI KAMBLE Company: CODTECH IT SOLUTIONS ID: CT12DGT Domain: Frontend Web Development Duration: December 12th, 2024 to February 12th, 2025. Mentor: Neela Santhosh Kumar
+
 Objective:
 The objective of this project is to create a personal portfolio website to showcase the skills, projects, and contact information of the developer. It serves as an online representation of the developer’s work and expertise in web development.
 
