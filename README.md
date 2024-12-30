@@ -15,3 +15,10 @@ Technologies Used:
 - CSS: for styling and responsive design.
 - JavaScript: for interactivity (e.g., menu toggle).
 - Boxicons: for icons. 
+
+Output of the Project
+![1](https://github.com/user-attachments/assets/d84e7f02-6e95-4e33-80de-a15008ff6be7)
+![2](https://github.com/user-attachments/assets/38d55d63-8c3b-44d5-8c28-50282c00961c)
+![3](https://github.com/user-attachments/assets/16b89656-e4d7-41c9-8951-18c02531643c)
+![4](https://github.com/user-attachments/assets/f3d45148-1f62-474c-839e-305be8c621d1)
+![5](https://github.com/user-attachments/assets/5141be6c-76ae-43f9-9612-082d89b05225)
